@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">Data Science Enthusiast| Internet of Things | Artificial Intelligence | Travel Vlogger</div>
+<div align="center">Hi there! Welcome to my GitHub profile. I'm a data science enthusiast and I love working with data to uncover insights and solve problems. Here's a brief overview of the projects and repositories you'll find here.</div>
+<div align="center">Projects</div>
+Project 1
+autoencoders-and-anomaly-detection
+https://github.com/RPUNIBO/autoencoders-and-anomaly-detection.git
+
+Project 2
+Mnist-classification-with-NN
+https://github.com/RPUNIBO/Mnist-classification-with-NN.git
+
+Project 3
+myfirstNN
+https://github.com/RPUNIBO/myfirstNN.git
+
+Project 4
+linear_regression
+https://github.com/RPUNIBO/linear_regression.git
+
+Project 5
+gradient_descent_animation
+https://github.com/RPUNIBO/gradient_descent_animation.git
+
+<div align="center">Repositories</div>
+Data Cleaning
+This repository contains scripts and notebooks for cleaning and pre-processing data. It includes techniques such as data imputation, outlier detection and removal, and feature scaling.
+
+Machine Learning
+This repository contains notebooks and scripts for machine learning projects. It includes classification, regression, clustering, and deep learning algorithms.
+
+Data Visualization
+This repository contains code and examples for creating visualizations of data. It includes charts, graphs, and interactive dashboards created with Python libraries like Matplotlib, Seaborn, and Plotly.
+
+SQL
+This repository contains SQL scripts and queries for working with relational databases. It includes examples of data manipulation, querying, and database design.
+
+<div align="center">Contact +39 333-8938-663</div>
+<div align="center">If you'd like to get in touch, you can reach me at rpunibo@gmail.com. Thanks for stopping by!</div> 
+<div align="center"><img src="[https://media.giphy.com/media/3o7btZSXg3jNW3CZ1K/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcemkolaghat.academia.edu%2FRitamPramanik&psig=AOvVaw0gfpsXcuO7ZCKfjKxWMxdI&ust=1679138238090000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCR-MPr4v0CFQAAAAAdAAAAABAE)" width="250"></div>
