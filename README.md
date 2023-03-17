@@ -53,4 +53,4 @@ This repository contains SQL scripts and queries for working with relational dat
 
 <div align="center">Contact +39 333-8938-663</div>
 <div align="center">If you'd like to get in touch, you can reach me at rpunibo@gmail.com. Thanks for stopping by!</div> 
-<div align="center"><img src="[https://media.giphy.com/media/3o7btZSXg3jNW3CZ1K/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcemkolaghat.academia.edu%2FRitamPramanik&psig=AOvVaw0gfpsXcuO7ZCKfjKxWMxdI&ust=1679138238090000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCR-MPr4v0CFQAAAAAdAAAAABAE)" width="250"></div>
+<div align="center"><img src="[https://media.giphy.com/media/3o7btZSXg3jNW3CZ1K/giphy.gif](https://media.licdn.com/dms/image/C4D03AQHsAK78tQDOAA/profile-displayphoto-shrink_800_800/0/1652387349614?e=2147483647&v=beta&t=TxUnh9uzcxrN2lfyvB6k3ZIPtAAoxKvBVhCrIArHFrc)" width="250"></div>
